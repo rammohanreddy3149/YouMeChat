@@ -1,31 +1,59 @@
 An Interactive Chat Platform where users can get following functionalities:
-1) Friend Requests
-2) Private Chat Functionality
-3) Group Chat Functionality
-4) Online Friends
-5) Groups Creation
-6) Profile Building
-7) Interactive Discussion Board
-
-
-Outputs:
 
 ![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(36).png)
 
 
-![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(37).png)
 
-
-![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(38).png)
+1) Friend Requests
 
 
 ![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(39).png)
 
 
-![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(40).png)
+2) Private Chat Functionality
 
 
 ![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(41).png)
 
 
+3) Group Chat Functionality
+
+
+![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(40).png)
+
+
+4) Online Friends
+5) Groups Creation
+
+
+![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(37).png)
+
+
+
+6) Profile Building
+
+
+
 ![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(42).png)
+
+
+
+
+7) Interactive Discussion Board
+
+
+![alt text](https://github.com/rammohanreddy3149/YouMeChat/blob/master/Outputs/Screenshot%20(38).png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
