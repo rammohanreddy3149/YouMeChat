@@ -5,3 +5,4 @@ An Interactive Chat Platform where users can get following functionalities:
 4) Online Friends
 5) Groups Creation
 6) Profile Building
+7) Interactive Discussion Board
